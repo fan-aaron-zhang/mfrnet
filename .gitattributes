@@ -10,3 +10,4 @@ MFRNet_BVI_VTM70_SR_QP22.npz filter=lfs diff=lfs merge=lfs -text
 MFRNet_BVI_VTM70_SR_QP27.npz filter=lfs diff=lfs merge=lfs -text
 MFRNet_BVI_VTM70_SR_QP32.npz filter=lfs diff=lfs merge=lfs -text
 MFRNet_BVI_VTM70_SR_QP37.npz filter=lfs diff=lfs merge=lfs -text
+model filter=lfs diff=lfs merge=lfs -text
