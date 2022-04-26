@@ -13,7 +13,7 @@ Run YUV model evaluation
 --mode=evaluate
 --evalHR=$output yuv path$
 --evalLR=$input yuv path$
---testModel=0
+--testModel=$MFRNet_BVI_VTM70_SR_QPXX.npz$
 --ratio=1
 --nlayers=16
 --GAN=0
