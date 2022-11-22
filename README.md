@@ -28,3 +28,4 @@ All input files should use the standard file name, e.g. Campfire_3840x2160_30fps
 Please cite our papers if you use this code for your research
 
 [1] Ma, Di, Fan Zhang, and David R. Bull. "MFRNet: a new CNN architecture for post-processing and in-loop filtering." IEEE Journal of Selected Topics in Signal Processing 15.2 (2020): 378-387.
+[2] Feng, Chen, et al. "Enhancing HDR Video Compression through CNN-based Effective Bit Depth Adaptation." arXiv preprint arXiv:2207.08634 (2022).
